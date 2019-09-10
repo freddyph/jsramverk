@@ -50,7 +50,7 @@ export default {
         `,
         text5: `
         Har nu läst 1 år på BTH, så det är min samlade erfarenhet
-        av studier inom programmering.
+        av studier inom programmering och räknar med att det ska öka under året.
         `,
         picture: require('../assets/me.jpg')
     }
