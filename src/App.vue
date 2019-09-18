@@ -16,7 +16,8 @@ export default {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+    }
+
 html {
     font-size: 100%;
     font-family: 'Inter UI', sans-serif;
@@ -25,9 +26,9 @@ html {
     width: 62em;
     margin: 0 auto;
     padding: 2em 6em 8em;
-    background-color: #0074d9;
-    border-top: 4px solid #0be6d7;
-    color: white;
+    background-color: black;
+    border-top: 4px solid #FFD700;
+    color: #FFD700;
 }
 h1 {
     font-size: 8em;
